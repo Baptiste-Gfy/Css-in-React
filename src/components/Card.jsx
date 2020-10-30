@@ -12,7 +12,7 @@ const Section = styled.section`
 .en-tete {
   width: 100%;
   height: 70%;
-  border: #c4c4c4 solid 1px;
+  border: solid #c4c4c4 1px;
   display: flex;
 }
 
